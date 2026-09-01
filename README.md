@@ -1,204 +1,431 @@
-# Hi, I'm Thiruppugazh S 👋
+<div align="center">
 
-### Computer Science & Engineering Student | Full-Stack Developer | AI/ML Enthusiast
+# 👋 Hi, I'm **Thiruppugazh S**
 
-I'm a **Computer Science and Engineering undergraduate at SRM Easwari Engineering College, Chennai**, passionate about building practical software products and exploring **Artificial Intelligence, Machine Learning, backend systems, and modern web technologies**.
+### `Computer Science & Engineering Student` · `Full-Stack Developer` · `AI/ML Enthusiast`
 
-I enjoy turning ideas into working products — from full-stack platforms and AI-powered applications to data-driven systems and startup projects.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=F7DF1E&center=true&vCenter=true&width=700&lines=Building+useful+software+products;Exploring+AI+%2B+Generative+AI;Designing+scalable+backend+systems;Turning+ideas+into+working+products;Learning+%E2%80%A2+Building+%E2%80%A2+Experimenting" alt="Typing SVG" />
 
----
+<br>
 
-## 🚀 What I Do
+<a href="https://www.thiruppugazhs.in">
+<img src="https://img.shields.io/badge/Portfolio-thiruppugazhs.in-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/in/thiruppugazh-srinivasan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-F7DF1E?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+<a href="https://github.com/thiruppugazhs">
+<img src="https://img.shields.io/badge/GitHub-thiruppugazhs-F7DF1E?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-* 💻 Build **full-stack web applications**
-* 🤖 Explore **AI/ML and Generative AI**
-* ⚙️ Develop **REST APIs and backend systems**
-* 📊 Work with **data analysis and predictive modelling**
-* 🔐 Implement authentication, authorization, and API integrations
-* 🚀 Build and experiment with **startup products**
-* 🧩 Practice **Data Structures & Algorithms**
-* 🌐 Deploy and manage modern web applications
+<br><br>
 
----
+<img src="https://komarev.com/ghpvc/?username=thiruppugazhs&style=for-the-badge&color=F7DF1E&label=PROFILE+VIEWS" />
 
-## 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-
-### Backend & Databases
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat\&logo=express\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=black)
-
-### AI / Data
-
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat\&logo=google\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat\&logo=plotly\&logoColor=white)
-
-### Tools & Cloud
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## ⚡ About Me
 
-### 🏢 [Staflo](https://github.com/thiruppugazhs/Staflo)
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+I'm a **Computer Science & Engineering undergraduate at SRM Easwari Engineering College, Chennai**, passionate about building practical software products and exploring **Artificial Intelligence, Machine Learning, backend systems, and modern web technologies**.
+
+I enjoy taking an idea from **concept → architecture → implementation → deployment**.
+
+### Currently focused on
+
+* 🤖 Artificial Intelligence & Generative AI
+* 🧠 Intelligent software systems
+* ⚙️ Backend engineering & REST APIs
+* 📊 Data analysis & predictive modelling
+* 🌐 Full-stack product development
+* 🚀 Startup experimentation
+* 🧩 Data Structures & Algorithms
+* ☁️ Deployment & scalable architectures
+
+<br clear="right"/>
+
+---
+
+# 🧬 My Tech Universe
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java&theme=dark" />
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,html,css&theme=dark" />
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,firebase,supabase&theme=dark" />
+
+### 🤖 AI / Data
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Google%20Gemini-AI-F7DF1E?style=for-the-badge&logo=googlegemini&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-Data-F7DF1E?style=for-the-badge&logo=pandas&logoColor=black"/>
+<img src="https://img.shields.io/badge/Plotly-Visualization-F7DF1E?style=for-the-badge&logo=plotly&logoColor=black"/>
+
+### 🛠️ Tools & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman&theme=dark" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🏢 Staflo
 
 **Multi-Tenant Human Resource Management System**
 
-A full-stack HR platform for managing employees, attendance, leave, payroll, documents, meetings, and workforce reporting.
+A full-stack HR platform for managing:
 
-**Tech:** React • TypeScript • FastAPI • PostgreSQL • Supabase • Docker
+* Employees
+* Attendance
+* Leave
+* Payroll
+* Documents
+* Meetings
+* Workforce reporting
 
----
+**Stack**
 
-### 🧠 [StarWaves](https://github.com/thiruppugazhs)
+`React` `TypeScript` `FastAPI` `PostgreSQL` `Supabase` `Docker`
+
+<br>
+
+<a href="https://github.com/thiruppugazhs/Staflo">
+<img src="https://img.shields.io/badge/View_Project-F7DF1E?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 StarWaves
 
 **Personal Productivity Workspace**
 
-A unified workspace bringing together projects, job applications, tasks, documents, email, calendars, hackathons, GitHub activity, and competitive programming into one dashboard.
+A unified workspace bringing together:
 
-**Tech:** React 19 • Vite • FastAPI • Firebase • Firestore • Google APIs • GitHub APIs
+* Projects
+* Job applications
+* Tasks
+* Documents
+* Email
+* Calendars
+* Hackathons
+* GitHub activity
+* Competitive programming
 
----
+**Stack**
 
-### 🤖 [SocialMind](https://github.com/thiruppugazhs/SocialMind)
+`React 19` `Vite` `FastAPI` `Firebase` `Firestore` `Google APIs`
+
+<br>
+
+<a href="https://github.com/thiruppugazhs">
+<img src="https://img.shields.io/badge/View_Project-F7DF1E?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🤖 SocialMind
 
 **AI Social Media Marketing Platform**
 
-An AI-powered platform combining social media analytics, content generation, automated responses, account insights, and Instagram API integrations.
+Combines social media analytics, AI content generation, automated responses, account insights and Instagram API integrations.
 
-**Tech:** React • TypeScript • Express.js • Gemini API • Instagram Graph API
+**Stack**
 
----
+`React` `TypeScript` `Express.js` `Gemini API` `Instagram Graph API`
 
-### ✨ [EXCUVA](https://github.com/thiruppugazhs/excuva)
+<br>
+
+<a href="https://github.com/thiruppugazhs/SocialMind">
+<img src="https://img.shields.io/badge/View_Project-F7DF1E?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ✨ EXCUVA
 
 **AI-Powered Context-Aware Generator**
 
-An AI application designed to generate context-aware responses based on situation, recipient, tone, and urgency, with authentication and persistent user history.
+Generates context-aware responses based on:
 
-**Tech:** React • Python • FastAPI • Gemini • PostgreSQL • OAuth
+`Situation` · `Recipient` · `Tone` · `Urgency`
 
----
+Includes authentication and persistent user history.
 
-### 📈 [Stock Forecasting](https://github.com/thiruppugazhs/stock_forecasting_project)
+**Stack**
+
+`React` `Python` `FastAPI` `Gemini` `PostgreSQL` `OAuth`
+
+<br>
+
+<a href="https://github.com/thiruppugazhs/excuva">
+<img src="https://img.shields.io/badge/View_Project-F7DF1E?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 📈 Stock Forecasting
 
 **Machine Learning Stock Forecasting**
 
-An interactive forecasting application experimenting with multiple time-series models and comparing their predictive performance.
+An interactive forecasting application experimenting with multiple time-series models.
 
-**Models:** ARIMA • SARIMA • Prophet • LSTM
+**Models**
 
----
+`ARIMA` · `SARIMA` · `Prophet` · `LSTM`
 
-### 🚌 Yaato
+<br>
+
+<a href="https://github.com/thiruppugazhs/stock_forecasting_project">
+<img src="https://img.shields.io/badge/View_Project-F7DF1E?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚌 Yaato
 
 **Student Transportation & Travel Management Startup**
 
-Currently building **Yaato** as a startup, where I work as **Founder & Frontend Developer**, focusing on product development, frontend architecture, UI/UX, and feature implementation.
+Currently building Yaato as a startup.
+
+**Role**
+
+`Founder & Frontend Developer`
+
+Focused on product development, frontend architecture, UI/UX and feature implementation.
+
+<br>
+
+<a href="https://yaato.in">
+<img src="https://img.shields.io/badge/Explore_Yaato-F7DF1E?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔬 Research Interests
+# 🌌 Contribution Matrix
 
-I'm particularly interested in:
+<div align="center">
 
-* Artificial Intelligence & Machine Learning
-* Generative AI
-* Time-Series Forecasting
-* Intelligent Software Systems
-* Natural Language Processing
-* Data-Driven Applications
-* AI-powered Decision Support Systems
-* Scalable Software Architecture
+### My GitHub activity — visualized
 
-I'm interested in exploring how AI systems can become **more reliable, useful, and effective in real-world environments**.
+<img src="https://github-profile-3d-contrib.vercel.app/thiruppugazhs/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Graph"/>
+
+</div>
 
 ---
 
-## 💼 Experience
+# 🐍 Contribution Snake
 
-**Full-Stack Developer Intern — SaiKet Systems**
-Dec 2025 – Jan 2026
+<div align="center">
 
-**Def-Space Intern — Bharat Space Education Research Centre**
-Dec 2025 – Jan 2026
+<img src="https://raw.githubusercontent.com/thiruppugazhs/thiruppugazhs/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
 
-**Artificial Intelligence Intern — LaunchED Global**
-Jun 2025
+</div>
 
-**Founder & Frontend Developer — Yaato**
-Current
+> **Tip:** The snake animation requires a GitHub Action in your profile repository. Create a repository named `thiruppugazhs`, then add the contribution-snake workflow to generate the `output` branch.
 
 ---
 
-## 🏆 Leadership & Activities
+# 📊 GitHub Analytics
 
-* **Executive Member — Institution of Engineering and Technology (IET)**
-* **Alumni Connect Ambassador — CSE Department, Easwari Engineering College**
-* **Association Executive Member — Association of Computer Engineers**
-* **Junior Event Organizer — Energy Club of EEC**
-* **Member — ISTE Club of EEC**
-* **Member — Entrepreneurship Development Cell**
-* **Member — Youth Red Cross**
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=thiruppugazhs&show_icons=true&hide_border=true&theme=dark&title_color=F7DF1E&icon_color=F7DF1E&text_color=FFFFFF&bg_color=00000000" />
 
-## 📜 Certifications
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiruppugazhs&layout=compact&hide_border=true&theme=dark&title_color=F7DF1E&text_color=FFFFFF&bg_color=00000000" />
 
-* Deloitte Australia — Technology Job Simulation
-* Deloitte Australia — Data Analytics Job Simulation
-* Deloitte Australia — Cyber Job Simulation
-* Office Master Certified — Power BI Workshop
-* From Zero to DevOps Hero — HCL GUVI
-* Cisco Networking Basics — Cisco Networking Academy
+</div>
 
 ---
 
-## 📊 GitHub
+# 🏆 GitHub Achievements
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiruppugazhs\&show_icons=true\&hide_border=true\&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiruppugazhs\&layout=compact\&hide_border=true)
+<img src="https://github-profile-trophy.vercel.app/?username=thiruppugazhs&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
 
----
-
-## 📫 Connect With Me
-
-**Portfolio:** [thiruppugazhs.in](https://www.thiruppugazhs.in)
-
-**LinkedIn:** [linkedin.com/in/thiruppugazh-srinivasan](https://www.linkedin.com/in/thiruppugazh-srinivasan)
-
-**GitHub:** [github.com/thiruppugazhs](https://github.com/thiruppugazhs)
-
-**Email:** [thiruppugazhs@gmail.com](mailto:thiruppugazhs@gmail.com)
+</div>
 
 ---
 
-### 💡 Building. Learning. Experimenting.
+# 🔬 Research Interests
 
-> *"I don't just want to use technology — I want to understand it, build with it, and create something useful."*
+<div align="center">
+
+| 🧠 Area | 🔍 Interest                                |
+| :-----: | :----------------------------------------- |
+|    🤖   | Artificial Intelligence & Machine Learning |
+|    ✨    | Generative AI                              |
+|    📈   | Time-Series Forecasting                    |
+|    🧩   | Intelligent Software Systems               |
+|    💬   | Natural Language Processing                |
+|    📊   | Data-Driven Applications                   |
+|    🎯   | AI-powered Decision Support Systems        |
+|   🏗️   | Scalable Software Architecture             |
+
+</div>
+
+### 🎯 Research Direction
+
+> Exploring how AI systems can become **more reliable, useful, and effective in real-world environments.**
+
+---
+
+# 💼 Experience
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  🚀 Founder & Frontend Developer                             │
+│     Yaato · Current                                          │
+│                                                              │
+│  💻 Full-Stack Developer Intern                              │
+│     SaiKet Systems · Dec 2025 – Jan 2026                     │
+│                                                              │
+│  🛰️ Def-Space Intern                                         │
+│     Bharat Space Education Research Centre                   │
+│     Dec 2025 – Jan 2026                                      │
+│                                                              │
+│  🤖 Artificial Intelligence Intern                            │
+│     LaunchED Global · Jun 2025                               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🏆 Leadership & Activities
+
+<div align="center">
+
+`IET Executive Member`
+
+`CSE Alumni Connect Ambassador`
+
+`Association of Computer Engineers`
+
+`Energy Club — Junior Event Organizer`
+
+`ISTE Club`
+
+`Entrepreneurship Development Cell`
+
+`Youth Red Cross`
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Deloitte-Technology_Job_Simulation-F7DF1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deloitte-Data_Analytics-F7DF1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deloitte-Cyber_Job_Simulation-F7DF1E?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Power_BI-Office_Master_Certified-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/HCL_GUVI-DevOps-F7DF1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cisco-Networking_Basics-F7DF1E?style=for-the-badge&logo=cisco&logoColor=black"/>
+
+</div>
+
+---
+
+# ⚡ Developer Philosophy
+
+<div align="center">
+
+### **BUILD**
+
+`Ideas → Architecture → Code → Product`
+
+### **LEARN**
+
+`Experiment → Break → Debug → Understand`
+
+### **CREATE**
+
+`Technology → Utility → Impact`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=Building.;Learning.;Experimenting.;One+commit+at+a+time." />
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.thiruppugazhs.in">
+<img src="https://img.shields.io/badge/🌐_Portfolio-thiruppugazhs.in-F7DF1E?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/thiruppugazh-srinivasan">
+<img src="https://img.shields.io/badge/LinkedIn-Thiruppugazh_Srinivasan-F7DF1E?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://github.com/thiruppugazhs">
+<img src="https://img.shields.io/badge/GitHub-thiruppugazhs-F7DF1E?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="mailto:thiruppugazhs@gmail.com">
+<img src="https://img.shields.io/badge/Email-thiruppugazhs%40gmail.com-F7DF1E?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<br><br>
+
+### 💡 *"I don't just want to use technology — I want to understand it, build with it, and create something useful."*
+
+<br>
+
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
+### `Building • Learning • Experimenting`
+
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
+</div>
+
