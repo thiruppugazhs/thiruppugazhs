@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "Staflo",
+      "description": "Multi-tenant HRMS orchestrating payroll, attendance, and enterprise workforce workflows."
+    },
+    {
+      "repo": "StarWaves",
+      "description": "Modular productivity workspace unifying projects, documents, tasks, and developer telemetry."
+    },
+    {
+      "repo": "SocialMind",
+      "description": "AI-powered social media engine combining live analytics, automated engagement, and content creation."
+    },
+    {
+      "repo": "excuva",
+      "description": "Context-aware AI response generator adapting tone, recipient, and urgency with session persistence."
+    }
+  ]
+}

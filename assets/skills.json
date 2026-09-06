@@ -1,0 +1,12 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    { "label": "Full-Stack Dev", "value": 88 },
+    { "label": "Python / FastAPI", "value": 85 },
+    { "label": "React / TS", "value": 82 },
+    { "label": "GenAI / LLMs", "value": 80 },
+    { "label": "Databases & SQL", "value": 75 },
+    { "label": "DevOps & Docker", "value": 70 },
+    { "label": "DSA", "value": 74 }
+  ]
+}
